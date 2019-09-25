@@ -53,7 +53,7 @@ Aqui podemos usar *formato italica*, pero tambien **bold** y ~~tachado~~.
   }
 ]
 ```
-
+Codigo JavaScript
 
 ``` JavaScript
 function $initHighlight(block, cls) {
@@ -75,4 +75,37 @@ function $initHighlight(block, cls) {
 }
 export  $initHighlight;
 ```
+# Tablas
+
+| Nombre | Apellido | Documento|
+|--------|----------|----------|
+| Maxi   | Alonso   | 123123   |
+| Tomas  | Herrera  | 23412342 |
+
+# Citas
+
+
+Esto es un texto referente a una cita que pondremos debajo 
+>Esto es una cita.
+
+Esto es un texto que no se relaciona con la cita anterior.
+
+# Lineas divisoras.
+
+Esto es un texto que sera dividido.
+
+---
+Esto es otro texto dividido.
+
+***
+Esto es otro texto dividido.
+
+___
+
+
+# Saltos de Linea
+
+
+
+
 Soy un readme
