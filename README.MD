@@ -33,4 +33,8 @@ Aqui podemos usar *formato italica*, pero tambien **bold** y ~~tachado~~.
 
 [Esto es un link en Markdown Local](index.html)
 
+# Imagenes
+
+![Logo Github](https://www.iconninja.com/files/186/513/110/github-social-media-logo-icon.png)
+
 Soy un readme
