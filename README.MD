@@ -37,4 +37,21 @@ Aqui podemos usar *formato italica*, pero tambien **bold** y ~~tachado~~.
 
 ![Logo Github](https://www.iconninja.com/files/186/513/110/github-social-media-logo-icon.png)
 
+# Code Snippets
+
+``` JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+
 Soy un readme
